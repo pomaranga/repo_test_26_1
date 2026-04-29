@@ -12,3 +12,4 @@ linijka Azalii c:
 linijka *
 linijka Natan
 nastepna linijka
+ostatnia linijka
