@@ -4,3 +4,4 @@ linijka 3
 linijka czwarta
 kolejna linijka
 linijka agi :>
+linijka 7
