@@ -11,3 +11,4 @@ linijka 8 :3
 linijka Azalii c:
 linijka *
 linijka Natan
+nastepna linijka
